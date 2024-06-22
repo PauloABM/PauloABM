@@ -1,7 +1,7 @@
 Sou um Desenvolvedor de Software, sendo Bacharel em Ciência da Computação pelo Instituto Federal do Norte de Minas Gerais. Sou apaixon‑
 ado pelo que faço, aproveitando cada momento. Também estou constantemente buscando melhorar minhas habilidades e expandir meu con‑
 hecimento na área, sendo proficiente em uma variedade de linguagens de programação e frameworks, me especializando principalmente em
-desenvolvimento frontend. Primariamente, em busca de cargos de desenvolvedor Flutter em tempo integral
+desenvolvimento frontend. Primariamente, em busca de cargos de desenvolvedor em tempo integral
 
 <!--
 **PauloABM/PauloABM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
